@@ -1,0 +1,47 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# C
+*.out
+*.exe
+*.o
+*.a
+*.so
+*.dSYM/
+a.out
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+ENV/
+*.sqlite3
+*.db
+
+# Node / JavaScript
+node_modules/
+npm-debug.log*
+
+# Flask
+instance/
+.webassets-cache
+
+# CS50 specific
+*.zip
+*.tar
+*.tar.gz
+submit50.log
+check50.log
+
+# Misc
+*.log

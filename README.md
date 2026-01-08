@@ -27,7 +27,14 @@ Please leave a ⭐ star if you find this repository helpful!
 
 ## Table of Contents
 
-- [Week 0: Scratch](./Week%200/Problem%20Set%200/RoamingCat.sb3) - [PSet Instructions](https://cs50.harvard.edu/x/2026/PSets/0/scratch/)
+- [Week 0: Scratch](./Week%200/Problem%20Set%200/RoamingCat.sb3) - [PSet Instructions](https://cs50.harvard.edu/x/psets/0/)
+
+- [Week 1: C](/1-C/) - [PSet Instructions](https://cs50.harvard.edu/x/psets/1/)
+
+  - [me](./Week%201/Problem%20Set%201/me/hello.c)
+  - mario
+    - [more](./Week%201/Problem%20Set%201/mario-more/mario.c)
+  - [credit](./Week%201/Problem%20Set%201/credit/credit.c)
 
 ---
 

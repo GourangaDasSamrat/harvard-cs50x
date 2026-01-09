@@ -38,4 +38,16 @@ Please leave a ⭐ star if you find this repository helpful!
 
 ---
 
+## Acknowledgements
+
+This course would not be possible without the incredible work of:
+
+- **[Harvard University](https://www.harvard.edu/)** - For making CS50 freely available to learners worldwide
+- **[David J. Malan](https://www.linkedin.com/in/malan/)** - Professor of Practice at Harvard University, who teaches the lectures with unmatched passion and clarity
+- **[Kelly Ding](https://www.linkedin.com/in/kellyding)** - Preceptor of Computer Science at Harvard University, who leads the sections and provides invaluable guidance
+
+Their dedication to education and making computer science accessible to everyone is truly inspiring.
+
+---
+
 _This repository is maintained for educational purposes and personal learning._

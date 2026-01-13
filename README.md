@@ -29,12 +29,17 @@ Please leave a ⭐ star if you find this repository helpful!
 
 - [Week 0: Scratch](./Week%200/Problem%20Set%200/RoamingCat.sb3) - [PSet Instructions](https://cs50.harvard.edu/x/psets/0/)
 
-- [Week 1: C](/1-C/) - [PSet Instructions](https://cs50.harvard.edu/x/psets/1/)
+- [Week 1: C](./Week%201/Problem%20Set%201/) - [PSet Instructions](https://cs50.harvard.edu/x/psets/1/)
 
   - [me](./Week%201/Problem%20Set%201/me/hello.c)
   - mario
     - [more](./Week%201/Problem%20Set%201/mario-more/mario.c)
   - [credit](./Week%201/Problem%20Set%201/credit/credit.c)
+
+- [Week 2: Arrays](./Week%202/Problem%20Set%202/) - [PSet Instructions](https://cs50.harvard.edu/x/psets/2/)
+  - [scrabble](./Week%202/Problem%20Set%202/scrabble/scrabble.c)
+  - [readability](./Week%202/Problem%20Set%202/readability/readability.c)
+  - [caesar](./Week%202/Problem%20Set%202/caesar/caesar.c)
 
 ---
 

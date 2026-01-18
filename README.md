@@ -41,6 +41,11 @@ Please leave a ⭐ star if you find this repository helpful!
   - [readability](./Week%202/Problem%20Set%202/readability/readability.c)
   - [caesar](./Week%202/Problem%20Set%202/caesar/caesar.c)
 
+- [Week 3: Algorithms](./Week%203/Problem%20Set%203/) - [PSet Instructions](https://cs50.harvard.edu/x/psets/3/)
+  - [sort](./Week%203/Problem%20Set%203/sort/)
+  - [plurality](./Week%203/Problem%20Set%203/plurality/plurality.c)
+  - [tideman](./Week%203/Problem%20Set%203/tideman/tideman.c)
+
 ---
 
 ## Acknowledgements

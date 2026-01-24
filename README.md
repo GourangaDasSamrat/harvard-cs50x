@@ -46,6 +46,12 @@ Please leave a ⭐ star if you find this repository helpful!
   - [plurality](./Week%203/Problem%20Set%203/plurality/plurality.c)
   - [tideman](./Week%203/Problem%20Set%203/tideman/tideman.c)
 
+- [Week 4: Memory](./Week%204/Problem%20Set%204/) - [PSet Instructions](https://cs50.harvard.edu/x/psets/4/)
+
+  - [volume](./Week%204/Problem%20Set%204/volume/volume.c)
+  - filter
+    - [more](./Week%204/Problem%20Set%204/filter-more/filter.c)
+  - [recover](./Week%204/Problem%20Set%204/recover/recover.c)
 ---
 
 ## Acknowledgements

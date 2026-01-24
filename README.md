@@ -27,31 +27,30 @@ Please leave a ⭐ star if you find this repository helpful!
 
 ## Table of Contents
 
-- [Week 0: Scratch](./Week%200/Problem%20Set%200/RoamingCat.sb3) - [PSet Instructions](https://cs50.harvard.edu/x/psets/0/)
+- [Week 0: Scratch](./Week%200/Problem%20Set%200/RoamingCat.sb3) - [Notes](./Week%200/notes/notes.md) - [PSet Instructions](https://cs50.harvard.edu/x/psets/0/)
 
-- [Week 1: C](./Week%201/Problem%20Set%201/) - [PSet Instructions](https://cs50.harvard.edu/x/psets/1/)
-
+- [Week 1: C](./Week%201/Problem%20Set%201/) - [Notes](./Week%201/notes/notes.md) - [PSet Instructions](https://cs50.harvard.edu/x/psets/1/)
   - [me](./Week%201/Problem%20Set%201/me/hello.c)
   - mario
     - [more](./Week%201/Problem%20Set%201/mario-more/mario.c)
   - [credit](./Week%201/Problem%20Set%201/credit/credit.c)
 
-- [Week 2: Arrays](./Week%202/Problem%20Set%202/) - [PSet Instructions](https://cs50.harvard.edu/x/psets/2/)
+- [Week 2: Arrays](./Week%202/Problem%20Set%202/) - [Notes](./Week%202/notes/notes.md) - [PSet Instructions](https://cs50.harvard.edu/x/psets/2/)
   - [scrabble](./Week%202/Problem%20Set%202/scrabble/scrabble.c)
   - [readability](./Week%202/Problem%20Set%202/readability/readability.c)
   - [caesar](./Week%202/Problem%20Set%202/caesar/caesar.c)
 
-- [Week 3: Algorithms](./Week%203/Problem%20Set%203/) - [PSet Instructions](https://cs50.harvard.edu/x/psets/3/)
+- [Week 3: Algorithms](./Week%203/Problem%20Set%203/) - [Notes](./Week%203/notes/notes.md) - [PSet Instructions](https://cs50.harvard.edu/x/psets/3/)
   - [sort](./Week%203/Problem%20Set%203/sort/)
   - [plurality](./Week%203/Problem%20Set%203/plurality/plurality.c)
   - [tideman](./Week%203/Problem%20Set%203/tideman/tideman.c)
 
-- [Week 4: Memory](./Week%204/Problem%20Set%204/) - [PSet Instructions](https://cs50.harvard.edu/x/psets/4/)
-
+- [Week 4: Memory](./Week%204/Problem%20Set%204/) - [Notes](./Week%204/notes/notes.md) - [PSet Instructions](https://cs50.harvard.edu/x/psets/4/)
   - [volume](./Week%204/Problem%20Set%204/volume/volume.c)
   - filter
     - [more](./Week%204/Problem%20Set%204/filter-more/filter.c)
   - [recover](./Week%204/Problem%20Set%204/recover/recover.c)
+
 ---
 
 ## Acknowledgements

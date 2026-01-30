@@ -51,6 +51,9 @@ Please leave a ⭐ star if you find this repository helpful!
     - [more](./Week%204/Problem%20Set%204/filter-more/filter.c)
   - [recover](./Week%204/Problem%20Set%204/recover/recover.c)
 
+- [Week 5: Data Structures](./Week%205/Problem%20Set%205/) - [Notes](./Week%205/notes/notes.md) - [PSet Instructions](https://cs50.harvard.edu/x/psets/5/)
+  - [inheritance](./Week%205/Problem%20Set%205/inheritance/inheritance.c)
+  - [speller](./Week%205/Problem%20Set%205/speller/)
 ---
 
 ## Acknowledgements

@@ -54,6 +54,15 @@ Please leave a ⭐ star if you find this repository helpful!
 - [Week 5: Data Structures](./Week%205/Problem%20Set%205/) - [Notes](./Week%205/notes/notes.md) - [PSet Instructions](https://cs50.harvard.edu/x/psets/5/)
   - [inheritance](./Week%205/Problem%20Set%205/inheritance/inheritance.c)
   - [speller](./Week%205/Problem%20Set%205/speller/)
+
+- [Week 6: Python](./Week%206/Problem%20Set%206/) - [Notes](./Week%206/notes/notes.md) - [PSet Instructions](https://cs50.harvard.edu/x/psets/6/)
+  - [hello](./Week%206/Problem%20Set%206/sentimental-hello/hello.py)
+  - mario
+    - [more](./Week%206/Problem%20Set%206/sentimental-mario-more/mario.py)
+  - [credit](./Week%206/Problem%20Set%206/sentimental-credit/credit.py)
+  - [readability](./Week%206/Problem%20Set%206/sentimental-readability/readability.py)
+  - [dna](./Week%206/Problem%20Set%206/dna/dna.py)
+
 ---
 
 ## Acknowledgements

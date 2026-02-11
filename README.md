@@ -4,6 +4,22 @@ This is **CS50**, Harvard University's introduction to the intellectual enterpri
 
 ---
 
+## ⚠️ License & Terms of Use
+
+**BY ACCESSING, VIEWING, OR USING THIS REPOSITORY, YOU AGREE TO BE BOUND BY THE TERMS IN [LICENSE.md](./LICENSE.md).**
+
+This repository contains personal solutions and study materials subject to strict usage restrictions:
+- ✅ **Study the notes** to understand concepts
+- ✅ **Reference the approach** for learning purposes
+- ❌ **DO NOT copy or submit** any code as your own work
+- ❌ **DO NOT use** for academic submissions
+
+**Academic integrity violations may result in serious consequences including failing grades, course dismissal, and permanent academic record notation.**
+
+Please read the full [LICENSE.md](./LICENSE.md) before proceeding.
+
+---
+
 ## Disclaimer
 
 > A quick word on [Academic Honesty](https://cs50.harvard.edu/x/2026/honesty/).

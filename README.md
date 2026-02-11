@@ -63,7 +63,7 @@ Please leave a ⭐ star if you find this repository helpful!
   - [readability](./Week%206/Problem%20Set%206/sentimental-readability/readability.py)
   - [dna](./Week%206/Problem%20Set%206/dna/dna.py)
 
-- [Week 7: Data Structures](./Week%207/Problem%20Set%207/) - [Notes](./Week%207/notes/notes.md) - [PSet Instructions](https://cs50.harvard.edu/x/psets/7/)
+- [Week 7: SQL](./Week%207/Problem%20Set%207/) - [Notes](./Week%207/notes/notes.md) - [PSet Instructions](https://cs50.harvard.edu/x/psets/7/)
   - [songs](./Week%207/Problem%20Set%207/songs/)
   - [movies](./Week%207/Problem%20Set%207/movies/)
   - [fiftyville](./Week%207/Problem%20Set%207/fiftyville/)

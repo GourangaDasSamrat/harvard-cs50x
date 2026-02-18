@@ -9,6 +9,7 @@ This is **CS50**, Harvard University's introduction to the intellectual enterpri
 **BY ACCESSING, VIEWING, OR USING THIS REPOSITORY, YOU AGREE TO BE BOUND BY THE TERMS IN [LICENSE.md](./LICENSE.md).**
 
 This repository contains personal solutions and study materials subject to strict usage restrictions:
+
 - ✅ **Study the notes** to understand concepts
 - ✅ **Reference the approach** for learning purposes
 - ❌ **DO NOT copy or submit** any code as your own work
@@ -83,6 +84,10 @@ Please leave a ⭐ star if you find this repository helpful!
   - [songs](./Week%207/Problem%20Set%207/songs/)
   - [movies](./Week%207/Problem%20Set%207/movies/)
   - [fiftyville](./Week%207/Problem%20Set%207/fiftyville/)
+
+- [Week 8: HTML, CSS, JavaScript](./Week%208/Problem%20Set%208/) - [Notes](./Week%208/notes/notes.md) - [PSet Instructions](https://cs50.harvard.edu/x/psets/8/)
+  - [trivia](./Week%208/Problem%20Set%208/trivia/)
+  - [homepage](./Week%208/Problem%20Set%208/homepage/)
 
 ---
 

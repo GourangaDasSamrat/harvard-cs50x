@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link href="styles.css" rel="stylesheet" />
+
+    <title>Chemistry!</title>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        let correct = document.querySelector(".correct");
+        correct.addEventListener("click", function () {
+          correct.style.backgroundColor = "green";
+          document.querySelector("#feedback1").innerHTML = "Correct!";
+        });
+
+        let incorrects = document.querySelectorAll(".incorrect");
+        for (let i = 0; i < incorrects.length; i++) {
+          incorrects[i].addEventListener("click", function () {
+            incorrects[i].style.backgroundColor = "red";
+            document.querySelector("#feedback1").innerHTML = "Incorrect";
+          });
+        }
+
+        document.querySelector("#check").addEventListener("click", function () {
+          let input = document.querySelector("input");
+          if (input.value.includes("Fluorine")) {
+            input.style.backgroundColor = "green";
+            document.querySelector("#feedback2").innerHTML = "Correct!";
+          } else {
+            input.style.backgroundColor = "red";
+            document.querySelector("#feedback2").innerHTML = "Incorrect";
+          }
+        });
+      });
+    </script>
+  </head>
+
+  <body>
+    <div class="header m-1" style="font-weight: bold">
+      <h1><b>Chemistry!</b></h1>
+    </div>
+
+    <div class="container-fluid">
+      <div class="section">
+        <h2>Part 1: Multiple Choice</h2>
+        <hr />
+        <h3>Which element has similar chemical properties to Selenium?</h3>
+
+        <p>
+          <button
+            class="incorrect btn btn-primary"
+            style="border-radius: 7px; background: #7200ff"
+          >
+            Iron
+          </button>
+          <button
+            class="incorrect btn btn-primary"
+            style="border-radius: 7px; background: #7200ff"
+          >
+            Boron
+          </button>
+          <button
+            class="incorrect btn btn-primary"
+            style="border-radius: 7px; background: #7200ff"
+          >
+            Arsenic
+          </button>
+          <button
+            class="incorrect btn btn-primary"
+            style="border-radius: 7px; background: #7200ff"
+          >
+            Uranium
+          </button>
+          <button
+            class="correct btn btn-primary"
+            style="border-radius: 7px; background: #7200ff"
+          >
+            Oxygen
+          </button>
+        </p>
+
+        <p id="feedback1"></p>
+      </div>
+
+      <div class="section">
+        <h2>Part 2: Free Response</h2>
+        <hr />
+        <h3>What is the most electronegative element?</h3>
+
+        <input type="text" style="border-radius: 7px" />
+        <button
+          id="check"
+          style="border-radius: 7px; background: #7200ff"
+          class="btn btn-primary"
+        >
+          Check Answer
+        </button>
+
+        <p id="feedback2"></p>
+      </div>
+    </div>
+
+    <footer class="footer-distributed">
+      <div class="footer-left">
+        <h3><span>Verisimilitude11</span></h3>
+        <p class="footer-company-name">Gouranga Das Samrat &copy; 2026</p>
+      </div>
+    </footer>
+  </body>
+</html>

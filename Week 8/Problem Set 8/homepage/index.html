@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta
+      name="description"
+      content="The DNAnalyzer site provides an overview on DNAnalyzer, an open-source project dedicated to making DNA analysis free and accessible to all."
+    />
+
+    <meta property="og:title" content="DNAnalyzer" />
+    <title>DNAnalyzer</title>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <h1 class="text-center primary-dark">DNAnalyzer</h1>
+      <span class="secondary-dark">
+        A highly efficient, powerful, and feature-rich algorithm for analyzing
+        DNA sequences
+      </span>
+
+      <div class="grid">
+        <div class="item bg-light">
+          <div class="flex">
+            <h2 class="primary-dark">Introduction</h2>
+            <p class="secondary-dark text-center">
+              DNAnalyzer identifies proteins, amino acids, start and stop
+              codons, high coverage regions, regions susceptible to
+              neurodevelopmental disorders, transcription factors, and
+              regulatory elements. Researchers are working to extract valuable
+              information from such software to better understand human health
+              and disease. Currently, we have a Command-Line-Interface (CLI) and
+              are working on a Graphical User Interface (GUI) that will enable
+              physicians to quickly and more easily interact with the software.
+            </p>
+          </div>
+        </div>
+
+        <div class="item bg-light">
+          <div class="flex">
+            <h2 class="primary-dark">Background</h2>
+            <p class="secondary-dark text-center">
+              The human genome is composed of over 3 billion base pairs, making
+              human analysis nearly impossible. Powerful computational and
+              statistical methods are necessary to decode the functional
+              information hidden in DNA sequences. Current analytical tools make
+              it difficult for geneticists and physicians to acquire crucial
+              information to better understand humans.
+            </p>
+          </div>
+        </div>
+
+        <div class="item bg-light">
+          <div class="flex" id="features">
+            <h2 class="primary-dark" style="text-align: left; width: 100%">
+              Features
+            </h2>
+
+            <div class="feature">
+              <h2 class="term">Start and Stop Codons</h2>
+              <p class="definition">
+                Indicate the start and stop of a protein. A protein consists of
+                one or more chains of amino acids encoded in a gene.
+                <code>2</code>
+              </p>
+            </div>
+
+            <div class="feature">
+              <h2 class="term">High Coverage Regions</h2>
+              <p class="definition">
+                Regions of DNA that code for proteins and have high GC-content.
+                These regions often contain important genomic information.
+                <code>3</code>
+              </p>
+            </div>
+
+            <div class="feature">
+              <h2 class="term">Neurodevelopmental Disorders</h2>
+              <p class="definition">
+                Disorders caused by genetic mutations affecting brain and
+                nervous system development, including autism and ADHD.
+                <code>4</code>
+              </p>
+            </div>
+
+            <div class="feature">
+              <h2 class="term">Transcription Factors</h2>
+              <p class="definition">
+                Proteins that bind to DNA and regulate gene expression.
+                <code>6</code>
+              </p>
+            </div>
+
+            <div class="feature">
+              <h2 class="term">FASTA Files (.fa & .fab)</h2>
+              <p class="definition">
+                A text-based format used to store DNA sequences and metadata.
+                Supports multi-line and single-line FASTA files. <code>7</code>
+              </p>
+            </div>
+
+            <div class="feature">
+              <h2 class="term">Command-Line-Interface</h2>
+              <p class="definition">
+                The Methionine CLI allows running DNAnalyzer services from the
+                command-line and scripting sequences of commands.
+              </p>
+            </div>
+
+            <div class="feature">
+              <h2 class="term">Graphical User Interface</h2>
+              <p class="definition">
+                A cross-platform JavaFX application that performs the same
+                functions as the CLI. Currently available GUI features:
+              </p>
+
+              <ul id="gui-features">
+                <li class="gui-li">Set name of DNA file to analyze</li>
+                <li class="gui-li">
+                  Set minimum and maximum number of reading frames
+                </li>
+                <li class="gui-li">Run analysis</li>
+                <li class="gui-li">View results</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <br />
+      <br />
+    </div>
+  </body>
+</html>

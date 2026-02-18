@@ -1,0 +1,41 @@
+10 HTML Tags Used
+
+<div> – Used to structure sections like header, container, and footer.
+
+<h1> – Used for the main page title "Chemistry!".
+
+<h2> – Used for section titles like "Part 1" and "Part 2".
+
+<h3> – Used for question prompts.
+
+<p> – Used for feedback messages and footer text.
+
+<button> – Used for multiple-choice answers and checking input.
+
+<input> – Used for the free-response text answer.
+
+<footer> – Used to create the footer section.
+
+<a> – Used for links in the footer.
+
+<i> – Used for icons in the footer with FontAwesome.
+
+5 CSS Properties Used
+
+background-color – Used for styling header, buttons, sections, and footer.
+
+font-size – Used for text sizing like headers and buttons.
+
+margin – Used for spacing around elements.
+
+padding – Used inside sections and header for spacing.
+
+border-radius – Used to round buttons and section corners.
+
+Bootstrap Description
+
+I used Bootstrap classes such as btn, btn-primary, and container-fluid to style buttons and layout, making the website responsive and visually appealing.
+
+JavaScript Description
+
+I used JavaScript to create an interactive quiz where clicking answers gives instant feedback and checks the correctness of a typed response.

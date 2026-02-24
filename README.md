@@ -91,6 +91,10 @@ Please leave a ⭐ star if you find this repository helpful!
   - [trivia](./Week%208/Problem%20Set%208/trivia/)
   - [homepage](./Week%208/Problem%20Set%208/homepage/)
 
+- [Week 9: Flask](./Week%209/Problem%20Set%209/) - [Notes](./Week%209/notes/notes.md) - [PSet Instructions](https://cs50.harvard.edu/x/psets/8/)
+  - [birthdays](./Week%209/Problem%20Set%209/birthdays/)
+  - [finance](./Week%209/Problem%20Set%209/finance/)
+
 ---
 
 ## Acknowledgements

@@ -98,6 +98,15 @@ Please leave a ⭐ star if you find this repository helpful!
 - [Final Project](https://github.com/GourangaDasSamrat/minify-chrome-extension) - [Instructions](https://cs50.harvard.edu/x/project/)
 ---
 
+## Certificate
+
+<i>
+ View the certificate <a href="https://cs50.harvard.edu/certificates/2b0dbe63-7c04-43bd-97b7-2b97069f333a">here</a>
+</i>
+
+[![cs50x.png](https://i.postimg.cc/xjBkgjLr/cs50x.png)](https://postimg.cc/QVkxd36S)
+---
+
 ## Acknowledgements
 
 This course would not be possible without the incredible work of:
